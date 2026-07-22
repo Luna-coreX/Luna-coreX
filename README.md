@@ -40,9 +40,9 @@ I'm currently focused on:
 
 **Status:** Stable
 
-Desktop AI Assistant powered by local and cloud language models.
+Desktop Assistant.
 
-> Voice interaction • Local LLMs • Automation • Productivity
+> Voice interaction • Automation • Productivity
 
 ---
 
@@ -124,17 +124,24 @@ A future autonomous AI ecosystem inspired by the Cardinal System from Sword Art 
 
 - ✅ Release Rina Assistant
 - 🔄 Restart RinaNeuro
-- 📖 Continue writing the Nexora novel
+- 📖 Continue writing the Nexora universe
 - 🌐 Build NeuroSync Foundry
 - 💼 Start my GameDev career
 
 ### Future
 
 - 🎮 Release Nightmare Of The Heart
-- 🤖 Build RinaNeuro
 - 🧠 Begin development of NexoraAI
 - 🎼 Release original music as **SAPPHIRE**
 - 🚀 Transition from Unity to Unreal Engine
+- Learn C++ and Blueprint
+
+### Distant Future
+- 🤖 Build RinaNeuro
+- Build NexoraAI
+- MR Study
+- The Study of Neuroscience
+- Studying Robotics
 
 ---
 
